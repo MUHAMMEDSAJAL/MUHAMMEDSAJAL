@@ -10,9 +10,9 @@
 
 ### Current Status : 📡
 
-- 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
-- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>
-- 🤔 My career interests are with <strong>Software Development</strong>
+- 💼 Currently Working in Tech Mahindra as a Associate Software Engineer.
+- 🌱 I'm great in Technologies like <strong>Java</strong>, <strong>.Net</strong>, <strong>Python</strong>, <strong>Angular</strong>,
+- 🤔 My career interests are with <strong>Software Development</strong>, <strong>Cloud Technology</strong>, <strong>AI/ML</strong>
 - 🔍 I’m looking for career opportunities in <strong>Startups</strong> and <strong>MNC's</strong>
 
 ### Tools I work upon : 🛠
